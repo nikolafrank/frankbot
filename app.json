@@ -1,0 +1,16 @@
+{
+  "name": "frankbot",
+  "scripts": {
+    "postdeploy": "python bot.py"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
